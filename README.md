@@ -2,7 +2,7 @@
 
 A runnable workflow prototype that turns a creator persona into structured content planning, scripts, production tasks, and publishing operations.
 
-**Status:** Runnable prototype with deterministic Mock AI and browser-local persistence. No production model quality or live social-platform integration is claimed.
+**Status:** Public portfolio package documenting a runnable prototype with deterministic Mock AI and browser-local persistence. The current public repo contains the reviewed documentation package; no production model quality or live social-platform integration is claimed.
 
 **Role lens:** AI Product Management · Workflow Design · Rapid Prototyping · Frontend Product Delivery
 
@@ -60,5 +60,7 @@ Useful future metrics include time from persona input to first usable plan, six-
 - [docs/workflow-and-output-contract.md](docs/workflow-and-output-contract.md) — six-step state model and structured outputs
 - [docs/model-integration-plan.md](docs/model-integration-plan.md) — path from Mock AI to a real provider
 - [docs/evaluation-and-limitations.md](docs/evaluation-and-limitations.md) — current evidence and non-production boundary
+- [docs/synthetic-structured-output-example.md](docs/synthetic-structured-output-example.md) — fictional output contract example
+- [docs/demo-script.md](docs/demo-script.md) — end-to-end walkthrough (when the runnable source is published)
 
-> Public portfolio material should use fictional creator identities, synthetic campaign information, and assets that are owned or licensed for publication.
+> Public portfolio material should use fictional creator identities, synthetic campaign information, and assets that are owned or licensed for publication. The existing public implementation context is maintained separately; any future source migration into this repo requires a fresh license and secrets review.
