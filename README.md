@@ -2,7 +2,7 @@
 
 A runnable workflow prototype that turns a creator persona into structured content planning, scripts, production tasks, and publishing operations.
 
-**Status:** Public portfolio package documenting a runnable prototype with deterministic Mock AI and browser-local persistence. The current public repo contains the reviewed documentation package; no production model quality or live social-platform integration is claimed.
+**Status:** Public documentation package for a separately maintained runnable prototype with deterministic Mock AI and browser-local persistence. This repository commit is documentation-only; no production model quality or live social-platform integration is claimed.
 
 **Role lens:** AI Product Management · Workflow Design · Rapid Prototyping · Frontend Product Delivery
 
@@ -20,9 +20,9 @@ A runnable workflow prototype that turns a creator persona into structured conte
       ↓
     Publishing Board
 
-The product closes the gap between “generate some copy” and the operational work required to produce, review, schedule, and publish content.
+The documented product closes the gap between “generate some copy” and the operational work required to produce, review, schedule, and publish content.
 
-## What the prototype demonstrates
+## What the documented prototype demonstrates
 
 - persona and audience input;
 - structured content pillars and audience analysis;
