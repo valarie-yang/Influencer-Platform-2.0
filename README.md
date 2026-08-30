@@ -8,6 +8,17 @@ A runnable workflow prototype that turns a creator persona into structured conte
 
 ![Content operations workflow](assets/portfolio-signal.svg)
 
+## Case evidence: role / inputs / outputs / result / boundary
+
+| | Portfolio proof |
+|---|---|
+| **My role** | Owned the six-step product workflow, output schemas, state/recovery design, Mock AI boundary and handoff from content idea to publishing operations. |
+| **Inputs** | Fictional creator persona, audience context, content goals and campaign constraints. |
+| **AI + system work** | Deterministic Mock AI returns structured analysis; each step validates and passes editable fields to the next step. |
+| **Outputs** | Content pillars, monthly topics, script draft, production checklist, publishing board and task status. |
+| **Result** | A reproducible documentation package and browser-local prototype contract that can be reviewed without pretending to have live model or platform results. |
+| **Boundary** | No live social-platform publishing, creator-growth metrics, production LLM quality or public source migration is claimed. |
+
 ## Six-step workflow
 
     Persona
