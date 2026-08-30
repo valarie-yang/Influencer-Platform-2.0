@@ -6,6 +6,8 @@ A runnable workflow prototype that turns a creator persona into structured conte
 
 **Role lens:** AI Product Management · Workflow Design · Rapid Prototyping · Frontend Product Delivery
 
+![Content operations workflow](assets/portfolio-signal.svg)
+
 ## Six-step workflow
 
     Persona
