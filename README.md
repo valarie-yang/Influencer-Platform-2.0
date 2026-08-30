@@ -62,5 +62,7 @@ Useful future metrics include time from persona input to first usable plan, six-
 - [docs/evaluation-and-limitations.md](docs/evaluation-and-limitations.md) — current evidence and non-production boundary
 - [docs/synthetic-structured-output-example.md](docs/synthetic-structured-output-example.md) — fictional output contract example
 - [docs/demo-script.md](docs/demo-script.md) — end-to-end walkthrough (when the runnable source is published)
+- [docs/portfolio-evidence-index.md](docs/portfolio-evidence-index.md) — recruiter reading path and evidence status
+- [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) — creator, media, and provider boundary
 
 > Public portfolio material should use fictional creator identities, synthetic campaign information, and assets that are owned or licensed for publication. The existing public implementation context is maintained separately; any future source migration into this repo requires a fresh license and secrets review.
